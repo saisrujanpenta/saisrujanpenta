@@ -1,5 +1,5 @@
 # 💫 About Me
-There are three responses to a piece of design — yes, no, and WOW! <br>Wow is the one to aim for!<br><br>🔭 I’m currently working on building MERN stack projects and beautiful landing pages on Figma.<br>🌱 I’m currently learning React.js, Vue.js, JavaScript and User Experience Design<br>💬 Ask me about the projects that I have worked on!<br>⚡ Fun fact is that I am a Mechanical Engineering graduate building websites now :P 
+There are three responses to a piece of design — yes, no, and WOW! <br>Wow is the one to aim for!<br><br>🔭 I’m currently working on building MERN stack projects and beautiful landing pages on Figma.<br>🌱 I’m currently learning React.js, Vue.js, JavaScript and User Experience Design<br>💬 Ask me about the projects that I have worked on!<br>⚡ Fun fact is that I may have a degree in Mechanical Engineering, but I'm a pro at creating websites. Looks like I traded in my wrench for a keyboard! 
 
 
 ## 🌐 Socials
